@@ -6,6 +6,10 @@ namespace MethodExercise
     {
         static void Main(string[] args)
         {
+
+            //Please send feedback on discord 
+
+
             Console.WriteLine("What is your name");
             string Name = Console.ReadLine();
 
