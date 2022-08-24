@@ -85,7 +85,7 @@ namespace MethodExercise
         public static int modulus(int x, int y) 
         { 
         
-            return x * y;
+            return x % y;
         
         }
         public static int Divide(int x, int y) 
